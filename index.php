@@ -47,7 +47,7 @@
 </html>
 <script>
 	$( document ).ready(function() {
-	    myKey = 'AIzaSyCTMgYm3N2bE1rLxKC4huq1Ip9Grph11ak';
+	    myKey = 'YOUR_API_KEY'; 
 		commonInfoDiv = $('#common_info');
 		resultsTable = $('#results');
 		idsArr = []; 
