@@ -1,0 +1,663 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/HNJn1UANMWjmhwGsmgl2CE4lcKE\"",
+ "pageInfo": {
+  "totalResults": 10,
+  "resultsPerPage": 10
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/gc8Tnn9gxYuwgyVw0apJH-Pmowo\"",
+   "id": "bu3Nmu_X6y4",
+   "snippet": {
+    "publishedAt": "2013-12-11T21:02:02.000Z",
+    "channelId": "UCslRpcoagIM6_N5VHU0wr3w",
+    "title": "Adriano Celentano - Io non so parlar d'amore (1999) [FULL ALBUM] 320 kbps",
+    "description": "CD Rip from 1999 album of Adriano Celentano.\nTracklist:\n[00:01] - Gelosia\n[04
+:31] - L'emozione non ha voce\n[08:40] - L'arcobaleno\n[12:12] - Una rosa pericolosa\n[16:47] - Qual'
+e la direzione\n[22:03] - Angel\n[27:12] - L'uomo di cartone\n[31:39] - Le pesche d'inverno\n[35:30]
+ - Senza amore\n[40:30] - Il sospetto\n[45:06] - Mi domando\n[49:23] - Sarai uno straccio\n\n© 1999 Clan
+ Celentano\nMade in Italy.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bu3Nmu_X6y4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bu3Nmu_X6y4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bu3Nmu_X6y4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bu3Nmu_X6y4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bu3Nmu_X6y4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Adriano Celentano",
+    "tags": [
+     "Io Non So Parlar D'amore (Musical Recording)",
+     "Adriano Celentano (Musical Artist)",
+     "Адриано Челентано",
+     "диск",
+     "альбом",
+     "1999",
+     "Джанни Белла",
+     "Могол",
+     "Gianni Bella",
+     "Mogol",
+     "Completo"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Adriano Celentano - Io non so parlar d'amore (1999) [FULL ALBUM] 320 kbps",
+     "description": "CD Rip from 1999 album of Adriano Celentano.\nTracklist:\n[00:01] - Gelosia\n[04
+:31] - L'emozione non ha voce\n[08:40] - L'arcobaleno\n[12:12] - Una rosa pericolosa\n[16:47] - Qual'
+e la direzione\n[22:03] - Angel\n[27:12] - L'uomo di cartone\n[31:39] - Le pesche d'inverno\n[35:30]
+ - Senza amore\n[40:30] - Il sospetto\n[45:06] - Mi domando\n[49:23] - Sarai uno straccio\n\n© 1999 Clan
+ Celentano\nMade in Italy."
+    }
+   },
+   "statistics": {
+    "viewCount": "4082831",
+    "likeCount": "8338",
+    "dislikeCount": "626",
+    "favoriteCount": "0",
+    "commentCount": "388"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/TG-Kbp8OrzHqXZAfGmhkzqs30Y4\"",
+   "id": "rlt3tp4QiBk",
+   "snippet": {
+    "publishedAt": "2008-03-14T19:41:21.000Z",
+    "channelId": "UCs_2myZXwtG2pBiigQObrFg",
+    "title": "Adriano Celentano -Ma Perke",
+    "description": "Adriano Celentano -Ma Perke",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rlt3tp4QiBk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rlt3tp4QiBk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rlt3tp4QiBk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "youtrupe",
+    "tags": [
+     "Adriano",
+     "Celentano",
+     "Ma",
+     "Perke"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Adriano Celentano -Ma Perke",
+     "description": "Adriano Celentano -Ma Perke"
+    }
+   },
+   "statistics": {
+    "viewCount": "16921999",
+    "likeCount": "52343",
+    "dislikeCount": "1038",
+    "favoriteCount": "0",
+    "commentCount": "2770"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/ecelIH2wF2b7b0CRknXuMpF-l9M\"",
+   "id": "hwaQdpwNzC8",
+   "snippet": {
+    "publishedAt": "2015-11-08T08:20:06.000Z",
+    "channelId": "UCtkCWeO8tFag0TnpsRNKIKQ",
+    "title": "Adriano Celentano Verona Live 2012",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hwaQdpwNzC8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hwaQdpwNzC8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hwaQdpwNzC8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hwaQdpwNzC8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Fabrizio Pedicone",
+    "categoryId": "19",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Adriano Celentano Verona Live 2012",
+     "description": ""
+    }
+   },
+   "statistics": {
+    "viewCount": "88631",
+    "likeCount": "466",
+    "dislikeCount": "13",
+    "favoriteCount": "0",
+    "commentCount": "37"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/2BLns9uI0R9-6h1bRqfCMFhyiz0\"",
+   "id": "wmmKcQ5ZsUk",
+   "snippet": {
+    "publishedAt": "2007-07-08T10:52:13.000Z",
+    "channelId": "UCiOBIXGfUsjcxsR1h46S0ow",
+    "title": "Adriano Celentano - IL tempo Se Ne Va",
+    "description": "Musik",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wmmKcQ5ZsUk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wmmKcQ5ZsUk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wmmKcQ5ZsUk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "topolino1945",
+    "tags": [
+     "Adriano",
+     "Celentano",
+     "IL",
+     "tempo",
+     "Se",
+     "Ne",
+     "Va"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Adriano Celentano - IL tempo Se Ne Va",
+     "description": "Musik"
+    }
+   },
+   "statistics": {
+    "viewCount": "17506776",
+    "likeCount": "29111",
+    "dislikeCount": "886",
+    "favoriteCount": "0",
+    "commentCount": "1524"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/Mx81MV4sMcKR7mVpPBJqZ02hC6Y\"",
+   "id": "WSJ6iVfHHJo",
+   "snippet": {
+    "publishedAt": "2014-05-06T12:19:54.000Z",
+    "channelId": "UCIAEHJASwJ6rjO9JE8HqnUg",
+    "title": "Adriano Celentano - 50 Best Hits Original",
+    "description": "Buy Your Copy Here on iTunes: https://itunes.apple.com/album/adriano-celentano-50-best
+/id588824801",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WSJ6iVfHHJo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WSJ6iVfHHJo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WSJ6iVfHHJo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WSJ6iVfHHJo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "JB Production",
+    "tags": [
+     "Adriano Celentano",
+     "50 Best Hits Original",
+     "JB Production",
+     "Song",
+     "Music",
+     "Official Classic",
+     "Classics",
+     "Best Hits",
+     "Original",
+     "Rare",
+     "Rarity",
+     "Ultimate",
+     "Collection",
+     "Rock and Roll",
+     "rock n roll",
+     "anni 50",
+     "anni 60",
+     "music d'autore",
+     "clan celentano",
+     "pop",
+     "cantautore",
+     "tutti i frutti",
+     "jailhouse rock",
+     "buonasera signorina",
+     "ventiquattromila baci"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Adriano Celentano - 50 Best Hits Original",
+     "description": "Buy Your Copy Here on iTunes: https://itunes.apple.com/album/adriano-celentano-50-best
+/id588824801"
+    }
+   },
+   "statistics": {
+    "viewCount": "169439",
+    "likeCount": "268",
+    "dislikeCount": "29",
+    "favoriteCount": "0",
+    "commentCount": "7"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/bCllXiuT8N9BF3TgTYXqePzSly0\"",
+   "id": "ynf3T93bHbI",
+   "snippet": {
+    "publishedAt": "2011-11-30T17:50:05.000Z",
+    "channelId": "UCJPfkFgixDD2DEpq7ZWPIcg",
+    "title": "Adriano Celentano - Ti Penso e Cambia Il Mondo (HD)",
+    "description": "https://www.facebook.com/pages/Chi-Vuole-Che-Adriano-Celentano-Torni-In-Televisione-a-Parlare
+/283865396255\n\nLeggiamo rilievi circa un presunto plagio di Chopin nell'introduzione della canzone
+ \"Ti penso e cambia il mondo\" cantato da Adriano Celentano.\nTeniamo a precisare che gli autori della
+ parte musicale della canzone \" Ti penso e cambia il mondo\" sono Stephen J. Lipson e Matteo Saggese
+, gia collaboratori tra gli altri di Celine Dion e dei Rolling Stones, mentre Adriano Celentano ne e
+ l'interprete.\nIn ogni caso un richiamo a Chopin potrebbe essere una semplice citazione tra l'altro
+ consentita, in quanto si tratterebbe di una composizione di pubblico dominio.\nClan Celentano\n\n\nhttps
+://www.facebook.com/AdrianoCelentanoTuSeiUnUomoLibero?ref=stream\n\nhttp://it.wikipedia.org/wiki/Ti_penso_e_cambia_il_mondo
+\nLa canzone parla di un dialogo tra un uomo e Dio che lo rassicura circa il suo futuro dopo l'addio
+ ultimo alla vita.  L'impianto armonico della canzone e costruito intorno al Preludio in do minore, opus
+ 28, numero 20 di Fryderyk Chopin\n\nAffamati come lupi \nviviamo in crudelta \nE tutto sembra perso
+ \nin questa oscurita \nAll'angolo e indifeso \nti cerco accanto a me... da soli \ngli occhi non vedono
+ \nTi penso e cambia il mondo \nle voci intorno a me \nCambia il mondo, \nvedo oltre quel che c'e \nVivo
+ e affondo, \ne l'inverno e su di me \nma so che cambia il mondo \nse al mondo sto con te \nC'e una strada
+ in ogni uomo, \nun'opportunita \nil cuore e un serbatoio \ndi rabbia e di pieta \nCredo solo al tuo
+ sorriso \nnel senso che mi da \nDa soli... gli occhi non vedono \nTi penso e cambia il mondo \nle voci
+ intorno a me \nCambia il mondo \nvedo oltre quel che c'e \nVivo e affondo \ne l'inverno e su di me 
+\nLo so che cambia il mondo \nse al mondo sto con te \nIo sono qui... ti aspetto qui \nOltre il buio
+ mi vedrai \nSapro difenderti... proteggerti \ne non stancarmi mai \nAcqua nel deserto... ti trovero
+ \nDormi e si vedra \nTi sentirai accarezzar \nTi penso e cambia il mondo \nle facce intorno a me \nCambia
+ il mondo \nvedo oltre quel che c'e \nVivo e affondo \nE l'inverno e su di me \nMa so che cambia il mondo
+ \nse al mondo sto con te \nCoro: \nIo sono qui... ti aspetto qui \nOltre il buio mi vedrai \nSapro difenderti
+.. proteggerti \ne non stancarmi mai \nAcqua nel deserto.. ti trovero \nDormi e si vedra \nTi sentirai
+ accarezzar \nTi penso e cambia il mondo \nle voci intorno a me \nCambia il mondo \nvedo oltre quel che
+ c'e \nVivo e affondo \nE l'inverno e su di me \nMa so che cambia il mondo \nse al mondo sto con te"
+,
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ynf3T93bHbI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ynf3T93bHbI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ynf3T93bHbI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ynf3T93bHbI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ynf3T93bHbI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "AdrianoCelentanoClub",
+    "tags": [
+     "ADRIANO CELENTANO",
+     "FACCIAMO FINTA CHE SIA VERO",
+     "Ti Penso e Cambia Il Mondo"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Adriano Celentano - Ti Penso e Cambia Il Mondo (HD)",
+     "description": "https://www.facebook.com/pages/Chi-Vuole-Che-Adriano-Celentano-Torni-In-Televisione-a-Parlare
+/283865396255\n\nLeggiamo rilievi circa un presunto plagio di Chopin nell'introduzione della canzone
+ \"Ti penso e cambia il mondo\" cantato da Adriano Celentano.\nTeniamo a precisare che gli autori della
+ parte musicale della canzone \" Ti penso e cambia il mondo\" sono Stephen J. Lipson e Matteo Saggese
+, gia collaboratori tra gli altri di Celine Dion e dei Rolling Stones, mentre Adriano Celentano ne e
+ l'interprete.\nIn ogni caso un richiamo a Chopin potrebbe essere una semplice citazione tra l'altro
+ consentita, in quanto si tratterebbe di una composizione di pubblico dominio.\nClan Celentano\n\n\nhttps
+://www.facebook.com/AdrianoCelentanoTuSeiUnUomoLibero?ref=stream\n\nhttp://it.wikipedia.org/wiki/Ti_penso_e_cambia_il_mondo
+\nLa canzone parla di un dialogo tra un uomo e Dio che lo rassicura circa il suo futuro dopo l'addio
+ ultimo alla vita.  L'impianto armonico della canzone e costruito intorno al Preludio in do minore, opus
+ 28, numero 20 di Fryderyk Chopin\n\nAffamati come lupi \nviviamo in crudelta \nE tutto sembra perso
+ \nin questa oscurita \nAll'angolo e indifeso \nti cerco accanto a me... da soli \ngli occhi non vedono
+ \nTi penso e cambia il mondo \nle voci intorno a me \nCambia il mondo, \nvedo oltre quel che c'e \nVivo
+ e affondo, \ne l'inverno e su di me \nma so che cambia il mondo \nse al mondo sto con te \nC'e una strada
+ in ogni uomo, \nun'opportunita \nil cuore e un serbatoio \ndi rabbia e di pieta \nCredo solo al tuo
+ sorriso \nnel senso che mi da \nDa soli... gli occhi non vedono \nTi penso e cambia il mondo \nle voci
+ intorno a me \nCambia il mondo \nvedo oltre quel che c'e \nVivo e affondo \ne l'inverno e su di me 
+\nLo so che cambia il mondo \nse al mondo sto con te \nIo sono qui... ti aspetto qui \nOltre il buio
+ mi vedrai \nSapro difenderti... proteggerti \ne non stancarmi mai \nAcqua nel deserto... ti trovero
+ \nDormi e si vedra \nTi sentirai accarezzar \nTi penso e cambia il mondo \nle facce intorno a me \nCambia
+ il mondo \nvedo oltre quel che c'e \nVivo e affondo \nE l'inverno e su di me \nMa so che cambia il mondo
+ \nse al mondo sto con te \nCoro: \nIo sono qui... ti aspetto qui \nOltre il buio mi vedrai \nSapro difenderti
+.. proteggerti \ne non stancarmi mai \nAcqua nel deserto.. ti trovero \nDormi e si vedra \nTi sentirai
+ accarezzar \nTi penso e cambia il mondo \nle voci intorno a me \nCambia il mondo \nvedo oltre quel che
+ c'e \nVivo e affondo \nE l'inverno e su di me \nMa so che cambia il mondo \nse al mondo sto con te"
+
+    }
+   },
+   "statistics": {
+    "viewCount": "8944480",
+    "likeCount": "20710",
+    "dislikeCount": "869",
+    "favoriteCount": "0",
+    "commentCount": "1589"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/BgMsUNasSH7zyC6Zn4eiKBYtjb4\"",
+   "id": "Q1VGoKBKR3I",
+   "snippet": {
+    "publishedAt": "2007-01-04T12:17:46.000Z",
+    "channelId": "UCAWPDKI_wZSgfngR4hiZPDw",
+    "title": "adriano celentano AZZURRO",
+    "description": "celentano : Azzurro su rai uno",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q1VGoKBKR3I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q1VGoKBKR3I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q1VGoKBKR3I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "E7SaMa",
+    "tags": [
+     "adriano",
+     "celentano",
+     "azzurro",
+     "italia",
+     "campione",
+     "del",
+     "mondo",
+     "rai",
+     "uno"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "adriano celentano AZZURRO",
+     "description": "celentano : Azzurro su rai uno"
+    }
+   },
+   "statistics": {
+    "viewCount": "14035007",
+    "likeCount": "16623",
+    "dislikeCount": "680",
+    "favoriteCount": "0",
+    "commentCount": "2054"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/SHBro_IWckj0Ni9dGzPm_s9mqdA\"",
+   "id": "wuRNsybk8To",
+   "snippet": {
+    "publishedAt": "2009-07-28T06:34:26.000Z",
+    "channelId": "UCxwXNESDlgAWLiS5fECCySw",
+    "title": "Adriano Celentano - L'emozione non ha voce",
+    "description": "Io non so parlar d'amore \r\nl'emozione non ha voce \r\nE mi manca un po' il respiro
+ \r\nse ci sei c'e troppa luce \r\nLa mia anima si spande \r\ncome musica d'estate \r\npoi la voglia
+ sai mi prende \r\ne mi accende con i baci tuoi \r\n\r\nIo con te saro sincero \r\nrestero quel che sono
+ \r\ndisonesto mai lo giuro \r\nma se tradisci non perdono \r\n\r\nTi saro per sempre amico \r\npur geloso
+ come sai \r\nio lo so mi contraddico \r\nma preziosa sei tu per me \r\n\r\nTra le mie braccia dormirai
+ \r\nserena..mente \r\ned e importante questo sai \r\nper sentirci pienamente noi \r\n\r\nUn'altra vita
+ mi darai \r\nche io non conosco \r\nla mia compagna tu sarai \r\nfino a quando so che lo vorrai \r\n
+\r\nDue caratteri diversi \r\nprendon fuoco facilmente \r\nma divisi siamo persi \r\nci sentiamo quasi
+ niente \r\nSiamo due legati dentro \r\nda un amore che ci da \r\nla profonda convinzione \r\nche nessuno
+ ci dividera \r\nTra le mie braccia dormirai \r\nserenamente \r\ned e importante questo sai \r\nper sentirci
+ pienamente noi \r\n\r\nUn'altra vita mi darai \r\nche io non conosco \r\nla mia compagna tu sarai \r
+\nfino a quando lo vorrai \r\n\r\npoi vivremo come sai \r\nsolo di sincerita \r\ndi amore e di fiducia
+ \r\npoi sara quel che sara \r\n\r\nTra le mie braccia dormirai \r\nserenamente \r\ned e importante questo
+ sai \r\nper sentirci pienamente noi \r\npienamente noi uhu uhu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wuRNsybk8To/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wuRNsybk8To/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wuRNsybk8To/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SonoS0L0Canzonette",
+    "tags": [
+     "adriano",
+     "celentano",
+     "l'emozione",
+     "non",
+     "ha",
+     "voce"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Adriano Celentano - L'emozione non ha voce",
+     "description": "Io non so parlar d'amore \r\nl'emozione non ha voce \r\nE mi manca un po' il respiro
+ \r\nse ci sei c'e troppa luce \r\nLa mia anima si spande \r\ncome musica d'estate \r\npoi la voglia
+ sai mi prende \r\ne mi accende con i baci tuoi \r\n\r\nIo con te saro sincero \r\nrestero quel che sono
+ \r\ndisonesto mai lo giuro \r\nma se tradisci non perdono \r\n\r\nTi saro per sempre amico \r\npur geloso
+ come sai \r\nio lo so mi contraddico \r\nma preziosa sei tu per me \r\n\r\nTra le mie braccia dormirai
+ \r\nserena..mente \r\ned e importante questo sai \r\nper sentirci pienamente noi \r\n\r\nUn'altra vita
+ mi darai \r\nche io non conosco \r\nla mia compagna tu sarai \r\nfino a quando so che lo vorrai \r\n
+\r\nDue caratteri diversi \r\nprendon fuoco facilmente \r\nma divisi siamo persi \r\nci sentiamo quasi
+ niente \r\nSiamo due legati dentro \r\nda un amore che ci da \r\nla profonda convinzione \r\nche nessuno
+ ci dividera \r\nTra le mie braccia dormirai \r\nserenamente \r\ned e importante questo sai \r\nper sentirci
+ pienamente noi \r\n\r\nUn'altra vita mi darai \r\nche io non conosco \r\nla mia compagna tu sarai \r
+\nfino a quando lo vorrai \r\n\r\npoi vivremo come sai \r\nsolo di sincerita \r\ndi amore e di fiducia
+ \r\npoi sara quel che sara \r\n\r\nTra le mie braccia dormirai \r\nserenamente \r\ned e importante questo
+ sai \r\nper sentirci pienamente noi \r\npienamente noi uhu uhu"
+    }
+   },
+   "statistics": {
+    "viewCount": "18309106",
+    "likeCount": "41890",
+    "dislikeCount": "2060",
+    "favoriteCount": "0",
+    "commentCount": "1878"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/Kr4C637I5X1Q_3rydsdwRuNR1qo\"",
+   "id": "VlooND9Jb2c",
+   "snippet": {
+    "publishedAt": "2015-03-28T17:04:51.000Z",
+    "channelId": "UCslRpcoagIM6_N5VHU0wr3w",
+    "title": "Adriano Celentano - Preghero (Stand by me) (LIVE 2012)",
+    "description": "Special for https://vk.com/club63184505",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VlooND9Jb2c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VlooND9Jb2c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VlooND9Jb2c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VlooND9Jb2c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VlooND9Jb2c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Adriano Celentano",
+    "tags": [
+     "Preghero' ( Stand By Me ) (Musical Recording)",
+     "Adriano Celentano (Musical Artist)",
+     "Rock Economy",
+     "Arena Di Verona (Opera House)",
+     "Music (TV Genre)",
+     "Адриано Челентано",
+     "концерт",
+     "2012",
+     "adriano live",
+     "ben king",
+     "cover",
+     "Ben E. King (Musical Artist)",
+     "Rock Music (Film Genre)",
+     "John Lennon (Musical Artist)"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Adriano Celentano - Preghero (Stand by me) (LIVE 2012)",
+     "description": "Special for https://vk.com/club63184505"
+    }
+   },
+   "statistics": {
+    "viewCount": "409516",
+    "likeCount": "1843",
+    "dislikeCount": "36",
+    "favoriteCount": "0",
+    "commentCount": "116"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/QNl7oabXkYnG2DZNKoxvyjEdh50\"",
+   "id": "YFI8Z8BdbIU",
+   "snippet": {
+    "publishedAt": "2013-06-25T19:24:08.000Z",
+    "channelId": "UCGSiz79bJ1PDM7D-vLFCyWg",
+    "title": "Adriano Celentano & Eros Ramazzotti Il Ragazzo Della Via Gluck Rockpolitik 2005",
+    "description": "Il Ragazzo Della Via Gluck Rockpolitik 2005\nAdriano Celentano e Eros Ramazzotti"
+,
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YFI8Z8BdbIU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YFI8Z8BdbIU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YFI8Z8BdbIU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YFI8Z8BdbIU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YFI8Z8BdbIU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "IlMolleggiato97",
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Adriano Celentano & Eros Ramazzotti Il Ragazzo Della Via Gluck Rockpolitik 2005",
+     "description": "Il Ragazzo Della Via Gluck Rockpolitik 2005\nAdriano Celentano e Eros Ramazzotti"
+
+    }
+   },
+   "statistics": {
+    "viewCount": "1868771",
+    "likeCount": "6474",
+    "dislikeCount": "260",
+    "favoriteCount": "0",
+    "commentCount": "234"
+   }
+  }
+ ]
+}

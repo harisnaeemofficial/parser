@@ -60,7 +60,7 @@
 			    i=0;
 				data.items.forEach(function (item) { 
 					idsArr[i] = item.id.videoId;
-					i++;
+					i++; 
 				});      
 				
 				$.getJSON('https://www.googleapis.com/youtube/v3/videos?id='+idsArr.join(',')+'&part=snippet,statistics&key='+myKey,function(data){

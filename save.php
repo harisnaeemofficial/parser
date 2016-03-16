@@ -7,10 +7,10 @@ $videos = json_decode($data);
     
 
 $conn  = mysql_connect('localhost', 'root', '');  
-if (!$conn) {
-    die('Ошибка соединения: ' . mysql_error());  
+if (!$conn) { 
+    die('РћС€РёР±РєР° СЃРѕРµРґРёРЅРµРЅРёСЏ: ' . mysql_error());  
 }
-mysql_select_db("test1") or die("Ошибка соединения");
+mysql_select_db("test1") or die("РћС€РёР±РєР° СЃРѕРµРґРёРЅРµРЅРёСЏ");
   
 $sql = "SELECT id, name FROM query WHERE name = '".$query."'";    
 $q = mysql_query ($sql);
