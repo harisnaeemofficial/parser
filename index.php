@@ -39,6 +39,7 @@
 					 <th>Нравится</th>
 					 <th>Не нравится</th>
 				  </tr>
+				  <tbody></tbody>
 				 </thead>
 		   </table>
 		</div>
@@ -47,7 +48,7 @@
 </html>
 <script>
 	$( document ).ready(function() {
-	    myKey = 'YOUR_API_KEY';  
+	    myKey = 'YOUR_API_KEY';    
 		commonInfoDiv = $('#common_info');
 		resultsTable = $('#results');
 		idsArr = []; 
@@ -69,14 +70,13 @@
 						type: 'POST',    
 						data: { myPostData : JSON.stringify(data) , query : queryString},           
 						dataType: 'json',
-						async: false,
 						success: function(msg) {  
 						    sumCountLikes = 0;
 						    sumCountDislikes = 0;
 							commonInfoDiv.append('<p><strong>Запрос: '+msg.name+'</strong></p>' );    
 							commonInfoDiv.append('<p><strong>Количество результатов: '+msg.count+'</strong></p>' );    
 							msg.items.forEach(function (item) {   		   					
-								resultsTable.append('<tr><td>'+item.title+'</td><td>'+item.description+'</td><td>'+item.likeCount+'</td><td>'+item.dislikeCount+'</td></tr>' );   
+								resultsTable.children('tbody').append('<tr><td>'+item.title+'</td><td>'+item.description+'</td><td>'+item.likeCount+'</td><td>'+item.dislikeCount+'</td></tr>' );   
                                 sumCountLikes = sumCountLikes + parseInt(item.likeCount);								
                                 sumCountDislikes = sumCountDislikes + parseInt(item.dislikeCount);								
 							});    
